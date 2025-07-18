@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natthapong Klahan
 =========================================================================================================================================
 
+I'm a Computer Engineering student passionate about software development, AI, and embedded systems.
+
+Currently learning and building projects using Python, C/C++, and practicing version control with Git
+
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [petch.kh01@gmail.com](mailto:petch.kh01@gmail.com)
 * ⚡  I'm Petch
